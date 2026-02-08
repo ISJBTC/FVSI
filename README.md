@@ -4,6 +4,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![DOI:Software](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI:Paper](https://img.shields.io/badge/DOI-10.1016/j.rineng.2025.106080-blue)](https://doi.org/10.1016/j.rineng.2025.106080)
+
+> **Published Paper**: Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. "Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach." *Results in Engineering*. 2025;27:106080. doi:[10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
 
 ---
 
@@ -11,7 +15,7 @@
 
 **PROVEN: Fractional-order models are 47-50% more accurate than integer-order models**
 
-Validated through comprehensive neural network learning across 5 mathematical formulations.
+Validated through comprehensive neural network learning across 5 mathematical formulations and published in Results in Engineering (Elsevier).
 
 ---
 
@@ -26,6 +30,27 @@ Validated through comprehensive neural network learning across 5 mathematical fo
 | Integer Order | 0.217±0.083 | 0.141±0.045 | 0.999792 | baseline |
 
 **Statistical Significance**: p = 0.036, Cohen's d = 1.78 (large effect)
+
+---
+
+## 📖 **Publication**
+
+This repository contains the complete implementation of the methods described in:
+
+**Full Citation:**
+> Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach. *Results in Engineering*. 2025;27:106080. doi:10.1016/j.rineng.2025.106080
+
+**Journal**: Results in Engineering (Elsevier)  
+**Published**: 2025  
+**DOI**: [10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
+
+**Authors:**
+- Irfan Siddique Jamadar
+- Kaushik Kumar
+- Sher Afghan Khan
+- Abdulrahman Khan
+- Mohammad Nishat Akhtar
+- Elansezhian A. Bakar
 
 ---
 
@@ -125,3 +150,4 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 **⭐ Star this repository if useful for your research!**
+
