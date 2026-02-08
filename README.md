@@ -45,12 +45,12 @@ This repository contains the complete implementation of the methods described in
 **DOI**: [10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
 
 **Authors:**
-- Irfan Siddique Jamadar
-- Kaushik Kumar
+- Irshad Sikandar Jamadar
+- Krishna Kumar
 - Sher Afghan Khan
-- Abdulrahman Khan
+- Ambareen Khan
 - Mohammad Nishat Akhtar
-- Elansezhian A. Bakar
+- Elmi Abu Bakar
 
 ---
 
@@ -150,6 +150,7 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 **⭐ Star this repository if useful for your research!**
+
 
 
 
