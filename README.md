@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![DOI:Software](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI:Software](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.18523151)
 [![DOI:Paper](https://img.shields.io/badge/DOI-10.1016/j.rineng.2025.106080-blue)](https://doi.org/10.1016/j.rineng.2025.106080)
 
 > **Published Paper**: Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. "Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach." *Results in Engineering*. 2025;27:106080. doi:[10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
@@ -150,4 +150,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 **⭐ Star this repository if useful for your research!**
+
 
