@@ -62,7 +62,7 @@ This repository contains the complete implementation of the methods described in
 
 ### Installation:
 ```bash
-git clone https://github.com/yourusername/fractional-cancer-dynamics.git
+git clone https://github.com/ISJBTC/FVSI.git
 cd fractional-cancer-dynamics
 pip install -r requirements.txt
 ```
@@ -132,7 +132,7 @@ fractional-cancer-dynamics/
   title={Fractional-Order Cancer Dynamics with Neural Network Validation},
   author={Research Team},
   year={2025},
-  url={https://github.com/yourusername/fractional-cancer-dynamics}
+  url={https://github.com/ISJBTC/FVSI}
 }
 ```
 
@@ -154,6 +154,7 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 **⭐ Star this repository if useful for your research!**
+
 
 
 
