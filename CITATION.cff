@@ -1,6 +1,62 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it."
-title: "Fractional-Order Cancer Dynamics"
+message: "If you use this software, please cite both the paper and the software."
+title: "Fractional-Order Cancer Dynamics with Neural Network Validation"
 version: 1.0.0
 date-released: 2025-06-28
 license: MIT
+
+# Software Authors
+authors:
+  - family-names: "Jamadar"
+    given-names: "Irshad Sikandar"
+  - family-names: "Kumar"
+    given-names: "Krishna"
+  - family-names: "Khan"
+    given-names: "Sher Afghan"
+  - family-names: "Khan"
+    given-names: "Ambareen"
+  - family-names: "Akhtar"
+    given-names: "Mohammad Nishat"
+  - family-names: "Bakar"
+    given-names: "Elmi Abu"
+
+# Software repository
+repository-code: "https://github.com/YOUR-USERNAME/fractional-cancer-dynamics"
+url: "https://github.com/YOUR-USERNAME/fractional-cancer-dynamics"
+
+# Software DOI (Zenodo)
+doi: 10.5281/zenodo.18523151
+
+keywords:
+  - fractional calculus
+  - cancer dynamics
+  - neural networks
+  - computational oncology
+  - machine learning
+  - quantum pressure
+  - memory effects
+
+# Preferred citation (the published paper)
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Jamadar"
+      given-names: "Irshad Sikandar"
+    - family-names: "Kumar"
+      given-names: "Krishna"
+    - family-names: "Khan"
+      given-names: "Sher Afghan"
+    - family-names: "Khan"
+      given-names: "Ambareen"
+    - family-names: "Akhtar"
+      given-names: "Mohammad Nishat"
+    - family-names: "Bakar"
+      given-names: "Elmi Abu"
+  title: "Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach"
+  journal: "Results in Engineering"
+  publisher: "Elsevier"
+  year: 2025
+  volume: 27
+  pages: 106080
+  doi: 10.1016/j.rineng.2025.106080
+  url: "https://doi.org/10.1016/j.rineng.2025.106080"
