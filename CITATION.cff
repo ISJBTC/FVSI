@@ -21,8 +21,8 @@ authors:
     given-names: "Elmi Abu"
 
 # Software repository
-repository-code: "https://github.com/YOUR-USERNAME/fractional-cancer-dynamics"
-url: "https://github.com/YOUR-USERNAME/fractional-cancer-dynamics"
+repository-code: "https://github.com/ISJBTC/FVSI"
+url: "https://github.com/ISJBTC/FVSI"
 
 # Software DOI (Zenodo)
 doi: 10.5281/zenodo.18523151
@@ -60,3 +60,4 @@ preferred-citation:
   pages: 106080
   doi: 10.1016/j.rineng.2025.106080
   url: "https://doi.org/10.1016/j.rineng.2025.106080"
+
