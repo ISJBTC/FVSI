@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Outputs
+*_output/
+*.pth
+*.png
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
