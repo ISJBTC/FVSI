@@ -9,13 +9,15 @@
 
 > **Published Paper**: Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. "Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach." *Results in Engineering*. 2025;27:106080. doi:[10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
 
+> **Software**: Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. (2025). Fractional-Order Cancer Dynamics with Neural Network Validation (v1.0.0). Zenodo. doi:[10.5281/zenodo.18523151](https://doi.org/10.5281/zenodo.18523151)
+
 ---
 
 ## 🏆 **Key Achievement**
 
 **PROVEN: Fractional-order models are 47-50% more accurate than integer-order models**
 
-Validated through comprehensive neural network learning across 5 mathematical formulations and published in Results in Engineering (Elsevier).
+Validated through comprehensive neural network learning across 5 mathematical formulations and published in *Results in Engineering* (Elsevier).
 
 ---
 
@@ -41,7 +43,9 @@ This repository contains the complete implementation of the methods described in
 > Jamadar IS, Kumar K, Khan SA, Khan A, Akhtar MN, Bakar EA. Quantum pressure and memory effects in cancer modeling: a fractional calculus neural network approach. *Results in Engineering*. 2025;27:106080. doi:10.1016/j.rineng.2025.106080
 
 **Journal**: Results in Engineering (Elsevier)  
-**Published**: 2025  
+**Year**: 2025  
+**Volume**: 27  
+**Article**: 106080  
 **DOI**: [10.1016/j.rineng.2025.106080](https://doi.org/10.1016/j.rineng.2025.106080)
 
 **Authors:**
@@ -150,6 +154,7 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 **⭐ Star this repository if useful for your research!**
+
 
 
 
